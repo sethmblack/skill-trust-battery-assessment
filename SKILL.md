@@ -3,8 +3,9 @@ name: trust-battery-assessment
 description: Evaluate relationship health and team dynamics using Tobi Lutke's trust battery metaphor. Diagnose current charge levels, identify what's charging or depleting trust, and prescribe specific actions...
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.5232
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - trust-battery-assessment
 - writing
